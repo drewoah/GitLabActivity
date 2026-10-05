@@ -1,3 +1,3 @@
 ﻿Console.WriteLine("Git Lab Activity - VS Code");
-Console.WriteLine("Name: [Type Your Full Name Here]");
-Console.WriteLine("Section: [Type Your Section Here]");
+Console.WriteLine("Name: [Jan Andrew A. Buduan]");
+Console.WriteLine("Section: [BSCS 2-4]");
